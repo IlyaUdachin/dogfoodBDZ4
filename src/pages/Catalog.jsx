@@ -18,7 +18,7 @@ const Catalog = ({ products }) => {
 	return (
 		<>
 			<Nav style={{ gridColumn: "1/5" }}>
-				<Button variant="outline-secondary" size="sm" className="m-1" onClick={myProds}>мои товары</Button>
+				<Button variant="outline-secondary" size="sm" className="m-1" onClick={myProds}>Мои товары</Button>
 				<Button variant="outline-secondary" size="sm" className="m-1" onClick={AllProds}>Все товары</Button>
 			</Nav >
 

@@ -139,9 +139,9 @@ const Product = () => {
 						<Card variant="primary" style={{ width: '300px' }}>
 							<Card.Body>
 								<Card.Title>Доставка &nbsp;<Truck /></Card.Title>
-								<Card.Subtitle className="mb-2 text-muted">по Ростову-на-Дону</Card.Subtitle>
+								<Card.Subtitle className="mb-2 text-muted">по г. Долгопрудный</Card.Subtitle>
 								<Card.Text>
-									Доставка от 5000 р. по г.Ростову-на Дону бесплатна
+									Доставка от 5000 р. по г. Долгопрудный бесплатно
 								</Card.Text>
 								<Card.Subtitle className="mb-2 text-muted">Иногородняя и по области</Card.Subtitle>
 								<Card.Text>
